@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ishankahirushan/ishankahirushan/blob/main/MasterHead.gif)](https://ishankahirushan.github.io)
+[![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://ishankahirushan.github.io)
 
 <h1 align="center">Hi 👋, I'm Ishanka Hirushan</h1>
 <h3 align="center">A developer creating seamless experiences across web, desktop, and mobile platforms in Sri Lanka</h3>
