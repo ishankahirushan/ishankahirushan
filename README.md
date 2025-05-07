@@ -1,6 +1,6 @@
 [![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://ishankahirushan.github.io)
 
-<h1 align="center">Hi 👋, I'm Ishanka Hirushan</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://ishankahirushan.github.io/" target="blank">Ishanka Hirushan</a></h1>
 <h3 align="center">A developer creating seamless experiences across web, desktop, and mobile platforms in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishankahirushan&label=Profile%20views&color=0e75b6&style=flat" alt="ishankahirushan" /> </p>
