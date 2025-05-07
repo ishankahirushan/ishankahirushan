@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.github.io)
 <h1 align="center">Hi 👋, I'm Ishanka Hirushan</h1>
 <h3 align="center">A developer creating seamless experiences across web, desktop, and mobile platforms in Sri Lanka</h3>
 
