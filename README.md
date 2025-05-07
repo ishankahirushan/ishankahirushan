@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Ishanka Hirushan</h1>
 <h3 align="center">A developer creating seamless experiences across web, desktop, and mobile platforms in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishankahirushan&label=Profile%20views&color=0e75b6&style=flat" alt="ishankahirushan" /> </p>
@@ -10,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/ishanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishanka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +19,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ishankahirushan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ishankahirushan" /></a></p><br><br>
-
