@@ -1,16 +1,14 @@
-## Hi there 👋
+# Vehicle Tracking Dashboard
 
-<!--
-**ishankahirushan/ishankahirushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A real-time GPS tracking system for managing vehicle fleets.
 
-Here are some ideas to get you started:
+🚀 **Live Preview**: [View Demo](https://your-deployment-link.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Laravel (Backend)
+- Livewire (Frontend)
+- MySQL + Firebase (Database)
+- Google Maps API
+
+## 🔒 Note
+This repository is private. If you're a client or reviewer and need access to the code, please contact me.
