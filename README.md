@@ -1,17 +1,19 @@
 [![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://ishankahirushan.github.io)
 
-<h1 align="center">Hi 👋, I'm <a href="https://ishankahirushan.github.io/" target="blank">Ishanka Hirushan</a></h1>
-<h3 align="center">A developer creating seamless experiences across web, desktop, and mobile platforms in Sri Lanka</h3>
+<h1 align="center">
+  Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
+  I'm <a href="https://ishankahirushan.github.io/" target="_blank" rel="noopener noreferrer">Ishanka Hirushan</a> 👨‍💻
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishankahirushan&label=Profile%20views&color=0e75b6&style=flat" alt="ishankahirushan" /> </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishankahirushan/ishankahirushan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishankahirushan/ishankahirushan/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/ishankahirushan/ishankahirushan/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=750&height=100&lines=
+    Welcome+to+my+profile+👋,
+    Passionate+Full-Stack+Developer+🚀,
+    Computer+Engineering+Undergraduate+🎓,
+    Founder+of+Innovative+Tech+Solutions+💡" alt="Typing SVG" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Laravel**
 
