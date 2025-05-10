@@ -68,8 +68,21 @@
   ### Mobile
 </div>
 
+## 📈 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishankahirushan&bg_color=1a1b27&color=58a6ff&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
+## 🚀 Featured Projects
 
+### [Transportation Management System (TMS)](https://github.com/ishankahirushan/tms)
+- **Tech Stack:** PHP (Laravel), React, MySQL
+- A transportation management system for efficient fleet and logistics management.
 
+## 📬 Get in Touch
+- 📧 Email: [ishankahirushan22@gmail.com](mailto:ishankahirushan22@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ishankahirushan](https://www.linkedin.com/in/ishankahirushan)
+- 🐦 Twitter: [@ishankahirushan](https://twitter.com/ishankahirushan)
 
+## ✨ "Code is like humor. When you have to explain it, it’s bad." – Cory House
