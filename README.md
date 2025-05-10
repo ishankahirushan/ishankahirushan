@@ -16,7 +16,7 @@
 
 <hr>
 
-# 👨‍💻 Professional Summary
+## 👨‍💻 Professional Summary
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
@@ -26,5 +26,3 @@
 - ⚡ Fun fact: I'm deeply passionate about ❤️, systems, and solving problems!
 
 *Last updated: 2025-05-10*
-
-
