@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Professional Summary
 
-<img align="right" width="400" src="https://chatgpt.com/s/m_681f03eaddcc81918d4c767ed7d996a5" alt="coding gif"/>
+<img align="right" width="400" src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Image-1.png" alt="coding gif"/>
 
 - 💼 CTO at [**AxSynthe Group**](https://www.axsynthegroup.me) – Building Digital Excellence
 - 🌱 Currently working on **TMS** (Transportation Management System) using **PHP (Laravel)** and **React**
