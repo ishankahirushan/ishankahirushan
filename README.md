@@ -18,11 +18,11 @@
 
 ## 👨‍💻 Professional Summary
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="400" src="https://chatgpt.com/s/m_681f03eaddcc81918d4c767ed7d996a5" alt="coding gif"/>
 
 - 💼 CTO at [**AxSynthe Group**](https://www.axsynthegroup.me) – Building Digital Excellence
-- 🌱 Currently focusing on **PHP (Laravel)**, **Java**, **Python**, **JavaScript**, **React**
-- 📫 Reach me at: [ishankahirushan.business@gmail.com](mailto:ishankahirushan.business@gmail.com)
-- ⚡ Fun fact: I'm deeply passionate about ❤️, systems, and solving problems!
+- 🌱 Currently working on **TMS** (Transportation Management System) using **PHP (Laravel)** and **React**
+- 📫 Reach me at: [ishankahirushan22@gmail.com](mailto:ishankahirushan22@gmail.com)
+- ⚡ To me, successfully debugging code without encountering a single error feels like discovering a unicorn in the wild - rare, magical, and worth celebrating!
 
 *Last updated: 2025-05-10*
