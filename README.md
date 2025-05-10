@@ -27,7 +27,7 @@
 
 *Last updated: 2025-05-10*
 
-<div align="center">
+
   <a href="https://github.com/ishankahirushan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankahirushan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
   </a>
