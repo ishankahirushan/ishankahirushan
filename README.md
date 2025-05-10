@@ -26,3 +26,13 @@
 - ⚡ To me, successfully debugging code without encountering a single error feels like discovering a unicorn in the wild - rare, magical, and worth celebrating!
 
 *Last updated: 2025-05-10*
+
+<div align="center">
+  <a href="https://github.com/ishankahirushan">
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=ishankahirushan&cc=000000&tc=04e8f0&ic=fff&bc=000" alt="Dimensional Stats" />
+  </a>
+  <a href="https://github.com/ishankahirushan">
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ishankahirushan&theme=dark&background=000000&ring=04E8F0&fire=9D6DF2&currStreakLabel=FF2E97" alt="Time Stream Data" />
+  </a>
+</div>
+
