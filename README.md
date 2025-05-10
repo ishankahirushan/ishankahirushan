@@ -9,3 +9,16 @@
     </summary>
   </ul>
 </div>
+
+<hr>
+
+<h3 align="center">Full Stack Developer | Computer Engineering Student | Tech Enthusiast</h3>
+
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishankahirushan&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=ishankahirushan&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
+
+
