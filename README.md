@@ -18,23 +18,28 @@
 
 ## 👨‍💻 Professional Summary
 
-<img align="right" width="400" src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Image-1.png" alt="coding gif"/>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1;">
+    - 💼 CTO at [**AxSynthe Group**](https://www.axsynthegroup.me) – Building Digital Excellence  
+    - 🌱 Currently working on **TMS** (Transportation Management System) using **PHP (Laravel)** and **React**  
+    - 📫 Reach me at: [ishankahirushan22@gmail.com](mailto:ishankahirushan22@gmail.com)  
+    - ⚡ To me, successfully debugging code without encountering a single error feels like discovering a unicorn in the wild - rare, magical, and worth celebrating!  
+    *Last updated: 2025-05-10*
 
-- 💼 CTO at [**AxSynthe Group**](https://www.axsynthegroup.me) – Building Digital Excellence
-- 🌱 Currently working on **TMS** (Transportation Management System) using **PHP (Laravel)** and **React**
-- 📫 Reach me at: [ishankahirushan22@gmail.com](mailto:ishankahirushan22@gmail.com)
-- ⚡ To me, successfully debugging code without encountering a single error feels like discovering a unicorn in the wild - rare, magical, and worth celebrating!
-
-*Last updated: 2025-05-10*
-
-<div align="center">
-  <a href="https://github.com/ishankahirushan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankahirushan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-  </a>
-  <a href="https://github.com/ishankahirushan">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ishankahirushan&cc=000000&tc=04e8f0&ic=fff&bc=000&hide_border=true" alt="GitHub Stats" height="170" />
-  </a>
+    <div align="center">
+      <a href="https://github.com/ishankahirushan">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankahirushan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+      </a>
+      <a href="https://github.com/ishankahirushan">
+        <img src="https://github-stats-alpha.vercel.app/api?username=ishankahirushan&cc=000000&tc=04e8f0&ic=fff&bc=000&hide_border=true" alt="GitHub Stats" height="170" />
+      </a>
+    </div>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Image-1.png" alt="coding gif" width="400" />
+  </div>
 </div>
+
 
 <br>
 
