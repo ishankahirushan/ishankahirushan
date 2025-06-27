@@ -1,4 +1,3 @@
-
 [![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)](https://ishankahirushan.github.io)
 
 <div id="user-content-toc">
