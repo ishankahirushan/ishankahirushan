@@ -39,7 +39,6 @@
     <!-- Left Column -->
     <td width="50%" valign="top">
       
-### 👨‍💻 About Me
 I am **Ishanka Hirushan**, CTO at <a href="https://axsynthegroup.me/" target="_blank">**AXSYNTHEGROUP**</a>. I’m a 3rd-year BSc (Hons) Computer Engineering student with a passion for embedded systems, digital design, and full-stack development 🦄✨.
 
 ## 🛠 Hardware Expertise
@@ -83,26 +82,7 @@ I am **Ishanka Hirushan**, CTO at <a href="https://axsynthegroup.me/" target="_b
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
 ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
 ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)  
-
----
-
-**Current Focus:**  
-- 🔧 8051 Assembly Programming  
-- ⚡ VHDL Digital System Design  
-- 📡 ESP32 IoT Architecture  
-- 🏠 Network OS for Smart Homes  
-- 🌐 Cisco Network Simulation  
-
-**Fun Fact:**  
-Successfully debugging without errors feels like finding a unicorn in the wild! 🦄✨  
-
-### 🎯 Currently Working On
-- 💼 Leading **AxSynthe Group** – Tech & Creative Solutions  
-- 🚗 **EEX4436**: 8051 Assembly-based Parking System  
-- 🚿 **EEX5351**: Pure VHDL Washing System  
-- 🏪 **EEX5346**: ESP32 3-Layer IoT Vending Machine  
-- 🏠 **Network OS Design** for Smart Home Controllers
-
+ 
     </td>
 
     <!-- Right Column -->
