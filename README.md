@@ -40,19 +40,51 @@
     <td width="50%" valign="top">
       
 ### 👨‍💻 About Me
-Hi! I’m **Ishanka Hirushan**, CTO at **AxSynthe Group**. I’m a 3rd-year BSc (Hons) Computer Engineering student from **Sri Lanka 🇱🇰** with a passion for embedded systems, digital design, and full-stack development.  
+I am **Ishanka Hirushan**, CTO at <a href="https://axsynthegroup.me/" target="_blank">**AXSYNTHEGROUP**</a>. I’m a 3rd-year BSc (Hons) Computer Engineering student with a passion for embedded systems, digital design, and full-stack development 🦄✨.
 
-**Hardware Expertise:**  
-- Low-level: 8051 Assembly, Microcontroller Programming  
-- Digital Design: VHDL, FPGA, Digital Logic  
-- Embedded Systems: ESP32, Arduino, IoT Systems  
-- Architecture: Edge-Fog-Cloud, Distributed Systems  
+## 🛠 Hardware Expertise
 
-**Software Expertise:**  
-- Languages: Java (Advanced), Python, C, PHP  
-- Backend: Laravel, Flask, Django, Spring Boot  
-- Frontend: React, Angular  
-- Databases: MySQL, PostgreSQL, Firebase  
+**Languages**  
+![Assembly](https://img.shields.io/badge/Assembly-Intermediate-yellow) 
+![Arduino](https://img.shields.io/badge/Arduino-Intermediate-yellow) 
+![VHDL](https://img.shields.io/badge/VHDL-Advanced-orange)
+
+**Microcontrollers (MCUs)**  
+![8051](https://img.shields.io/badge/8051-Intermediate-yellow)
+![8086](https://img.shields.io/badge/8086-Intermediate-yellow)
+![ESP32](https://img.shields.io/badge/ESP32-Advanced-orange)
+
+**Tools & IDEs**  
+![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-Intermediate-yellow)
+![Vivado ISE](https://img.shields.io/badge/Vivado%20ISE-Intermediate-yellow)
+![Proteus](https://img.shields.io/badge/Proteus-Expert-red)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-Expert-red) 
+
+## 💻 Software Expertise
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-Expert-red)
+![Python](https://img.shields.io/badge/Python-Advanced-orange)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow)
+![C](https://img.shields.io/badge/C-Intermediate-yellow)  
+
+**Backend Frameworks**  
+![Laravel](https://img.shields.io/badge/Laravel-Beginner-green)
+![Flask](https://img.shields.io/badge/Flask-Beginner-green)
+![Django](https://img.shields.io/badge/Django-Beginner-green)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green) 
+
+**Frontend Frameworks**  
+![React](https://img.shields.io/badge/React-Beginner-green)
+![Angular](https://img.shields.io/badge/Angular-Beginner-green)  
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-Expert-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
+![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)  
+
+---
 
 **Current Focus:**  
 - 🔧 8051 Assembly Programming  
