@@ -2,9 +2,7 @@
   <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%" />
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy. gif" width="35" alt="wave" />
-  Hey there!  I'm <a href="https://ishankahirushan.github. io/" target="_blank">Ishanka Hirushan</a>
+<h1 align="center"> Hey there!  I'm <a href="https://ishankahirushan.github.io/" target="_blank">Ishanka Hirushan</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
 </h1>
 
@@ -13,74 +11,72 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ishankahirushan22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ishankahirushan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ishankahirushan.github. io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ishankahirushan&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <!-- Gmail -->
+  <a href="mailto:ishankahirushan22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ishankahirushan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://ishankahirushan.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/ishankahirushan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
 <table align="center">
   <tr>
+    <!-- Left Column -->
     <td width="50%" valign="top">
       
-## 👨‍💻 About Me
+### 👨‍💻 About Me
+Hi! I’m **Ishanka Hirushan**, CTO at **AxSynthe Group**. I’m a 3rd-year BSc (Hons) Computer Engineering student from **Sri Lanka 🇱🇰** with a passion for embedded systems, digital design, and full-stack development.  
 
-```python
-class ComputerEngineer:
-    def __init__(self):
-        self.name = "Ishanka Hirushan"
-        self.role = "CTO @ AxSynthe Group"
-        self.education = {
-            "degree": "BSc (Hons) Computer Engineering",
-            "year": "3rd Year",
-            "location": "Sri Lanka 🇱🇰"
-        }
-        self.hardware_expertise = {
-            "low_level":  ["8051 Assembly", "Microcontroller Programming"],
-            "digital_design": ["VHDL", "FPGA", "Digital Logic"],
-            "embedded":  ["ESP32", "Arduino", "IoT Systems"],
-            "architecture": ["Edge-Fog-Cloud", "Distributed Systems"]
-        }
-        self.software_expertise = {
-            "languages": ["Java (Advanced)", "Python", "C", "PHP"],
-            "backend": ["Laravel", "Flask", "Django", "Spring Boot"],
-            "frontend": ["React", "Angular"],
-            "databases": ["MySQL", "PostgreSQL", "Firebase"]
-        }
-    
-    def current_focus(self):
-        return [
-            "🔧 8051 Assembly Programming",
-            "⚡ VHDL Digital System Design", 
-            "📡 ESP32 IoT Architecture",
-            "🏠 Network OS for Smart Homes",
-            "🌐 Cisco Network Simulation"
-        ]
-    
-    def fun_fact(self):
-        return "Successfully debugging without errors feels " \
-               "like finding a unicorn in the wild!  🦄✨"
-```
+**Hardware Expertise:**  
+- Low-level: 8051 Assembly, Microcontroller Programming  
+- Digital Design: VHDL, FPGA, Digital Logic  
+- Embedded Systems: ESP32, Arduino, IoT Systems  
+- Architecture: Edge-Fog-Cloud, Distributed Systems  
 
-### 🎯 Currently Working On
-- 💼 Leading **AxSynthe Group** - Tech & Creative Solutions
-- 🚗 **EEX4436**:  8051 Assembly-based Parking System
-- 🚿 **EEX5351**: Pure VHDL Washing System
-- 🏪 **EEX5346**:  ESP32 3-Layer IoT Vending Machine
-- 🏠 **Network OS Design** for Smart Home Controllers
+**Software Expertise:**  
+- Languages: Java (Advanced), Python, C, PHP  
+- Backend: Laravel, Flask, Django, Spring Boot  
+- Frontend: React, Angular  
+- Databases: MySQL, PostgreSQL, Firebase  
 
     </td>
+
+    <!-- Right Column -->
     <td width="50%" valign="top">
-      <br/>
+
       <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Image-1.png" alt="Coding Animation" width="100%" />
-      
-### 📊 GitHub Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankahirushan&theme=tokyonight&hide_border=true&background=0D1117&ring=04e8f0&fire=04e8f0&currStreakLabel=04e8f0" alt="GitHub Streak" width="100%" />
+### 🔧 Current Focus
+- 8051 Assembly Programming  
+- VHDL Digital System Design  
+- ESP32 IoT Architecture  
+- Network OS for Smart Homes  
+- Cisco Network Simulation  
 
-<img src="https://github-stats-alpha.vercel.app/api? username=ishankahirushan&cc=000000&tc=04e8f0&ic=fff&bc=000&hide_border=true" alt="GitHub Stats" width="100%" />
+### 🦄 Fun Fact
+Successfully debugging without errors feels like finding a unicorn in the wild! ✨  
+
+### 🎯 Currently Working On
+- 💼 Leading **AxSynthe Group** – Tech & Creative Solutions  
+- 🚗 **EEX4436**: 8051 Assembly-based Parking System  
+- 🚿 **EEX5351**: Pure VHDL Washing System  
+- 🏪 **EEX5346**: ESP32 3-Layer IoT Vending Machine  
+- 🏠 **Network OS Design** for Smart Home Controllers  
 
     </td>
   </tr>
