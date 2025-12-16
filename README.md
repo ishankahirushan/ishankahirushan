@@ -11,24 +11,20 @@
 </p>
 
 <p align="center">
-  <!-- Gmail -->
   <a href="mailto:ishankahirushan22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ishankahirushan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <!-- Portfolio -->
   <a href="https://ishankahirushan.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 
-  <!-- GitHub -->
   <a href="https://github.com/ishankahirushan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -85,7 +81,7 @@ I am **Ishanka Hirushan**, CTO at <a href="https://axsynthegroup.me/" target="_b
 ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
 ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
 
-- These days, I’m focusing on my Network Operating System (NOS) project.  
+- Currently, my focus is on a NOS project.  
     </td>
 
     <!-- Right Column -->
@@ -95,6 +91,25 @@ I am **Ishanka Hirushan**, CTO at <a href="https://axsynthegroup.me/" target="_b
   </tr>
 </table>
 
+## 🚀 Hardware Projects
 
----
+### 🚗 **OPMS - Outdoor Parking Management System**
+![Assembly](https://img.shields.io/badge/8051_MCU-ASSEMBLY-red?style=for-the-badge)
 
+This system is an intelligent solution for efficient and secure parking management. It automates slot monitoring and access control, allowing only registered vehicles while providing real-time updates and notifications. The system ensures smooth vehicle flow, optimized space usage, and enhanced security through automated management.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
+
+### 🚗 **TCWCC - Tunneled Car Wash Conveyor Controller**
+![VHDL](https://img.shields.io/badge/SPARTON_6-VHDL-green?style=for-the-badge)
+
+This System is a fully digital, automated solution for vehicle cleaning. It orchestrates a multi-stage washing sequence from entry to exit, ensuring smooth operation with safety interlocks and emergency stop mechanisms. The system intelligently detects vehicles, controls the washing sequence, and manages all operations automatically, providing efficient, reliable, and fully automated vehicle washing without manual intervention.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
+
+### 🚗 **SSMS - Smart Snack Management System**
+![Arduino](https://img.shields.io/badge/ESP32-Arduino-00979D?style=for-the-badge)![Websockets](https://img.shields.io/badge/WebSocket-FFC107?style=for-the-badge)![Flask](https://img.shields.io/badge/Flask-008080?style=for-the-badge)![MQTT](https://img.shields.io/badge/MQTT-purple?style=for-the-badge)![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge)
+
+This system is an intelligent, IoT-enabled vending solution designed with a distributed three-layer architecture. It automates snack dispensing while providing personalized recommendations and real-time inventory tracking. The system securely manages user interactions, supports guest access, monitors environmental conditions, and provides operators with analytics dashboards. Designed for efficiency and reliability, it ensures smooth operation even offline, offering a seamless, interactive, and intelligent snack management experience.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-DP)
