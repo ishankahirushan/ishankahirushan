@@ -82,7 +82,7 @@ I am **Ishanka Hirushan**, CTO at <a href="https://axsynthegroup.me/" target="_b
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
 ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
 ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)  
- 
+- 💼 Leading **AxSynthe Group** – Tech & Creative Solutions  
     </td>
 
     <!-- Right Column -->
