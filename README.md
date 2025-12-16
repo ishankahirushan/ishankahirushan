@@ -54,33 +54,32 @@ Hi! I’m **Ishanka Hirushan**, CTO at **AxSynthe Group**. I’m a 3rd-year BSc 
 - Frontend: React, Angular  
 - Databases: MySQL, PostgreSQL, Firebase  
 
-    </td>
+**Current Focus:**  
+- 🔧 8051 Assembly Programming  
+- ⚡ VHDL Digital System Design  
+- 📡 ESP32 IoT Architecture  
+- 🏠 Network OS for Smart Homes  
+- 🌐 Cisco Network Simulation  
 
-    <!-- Right Column -->
-    <td width="50%" valign="top">
-
-      <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Image-1.png" alt="Coding Animation" width="100%" />
-
-### 🔧 Current Focus
-- 8051 Assembly Programming  
-- VHDL Digital System Design  
-- ESP32 IoT Architecture  
-- Network OS for Smart Homes  
-- Cisco Network Simulation  
-
-### 🦄 Fun Fact
-Successfully debugging without errors feels like finding a unicorn in the wild! ✨  
+**Fun Fact:**  
+Successfully debugging without errors feels like finding a unicorn in the wild! 🦄✨  
 
 ### 🎯 Currently Working On
 - 💼 Leading **AxSynthe Group** – Tech & Creative Solutions  
 - 🚗 **EEX4436**: 8051 Assembly-based Parking System  
 - 🚿 **EEX5351**: Pure VHDL Washing System  
 - 🏪 **EEX5346**: ESP32 3-Layer IoT Vending Machine  
-- 🏠 **Network OS Design** for Smart Home Controllers  
+- 🏠 **Network OS Design** for Smart Home Controllers
 
+    </td>
+
+    <!-- Right Column -->
+    <td width="50%" valign="top">
+      <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Software.png" alt="Coding Animation" width="100%" />
     </td>
   </tr>
 </table>
+
 
 ---
 
