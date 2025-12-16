@@ -75,7 +75,7 @@ Successfully debugging without errors feels like finding a unicorn in the wild! 
 
     <!-- Right Column -->
     <td width="50%" valign="top">
-      <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Software.png" alt="Coding Animation" width="100%" />
+      <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Mobile.png" alt="Coding Animation" width="100%" />
     </td>
   </tr>
 </table>
