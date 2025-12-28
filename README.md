@@ -4,19 +4,26 @@
 
 <div>
   <h2>👨‍💻 About Me</h2>
-  <p>I am <b>Ishanka Hirushan</b>, CTO at <a href="https://axsynthegroup.me/" target="_blank"><b>AXSYNTHEGROUP</b></a>. I’m a 3rd-year BSc (Hons) Computer Engineering student with a passion for embedded systems, digital design, and full-stack development 🦄✨.</p>
-
-  <ul>
-    <li>
-      <strong>Mathematical strengths</strong> - Exceptional analytical thinking and problem solving skills with a strong foundation in rigorous, university level mathematics.
-    </li>
-    <li>
-      <strong>Embedded design</strong> - Practical experience in hardware - software integration and prototyping for embedded systems.
-    </li>
-    <li>
-      <strong>Teaching & mentorship</strong> - Available for tutoring in advanced mathematics and engineering mathematics.
-    </li>
-  </ul>
+  <div style="display:flex;flex-direction:row;align-items:flex-start;justify-content:space-between;gap:24px;max-width:1000px;">
+    <div style="flex:1;min-width:0;">
+      <p style="margin:6px 0 12px;">I am <strong>Ishanka Hirushan</strong>, CTO at
+      <a href="https://axsynthegroup.me/" target="_blank" rel="noopener noreferrer"><strong>AXSYNTHEGROUP</strong></a>.I’m a 3rd-year BSc (Hons) Computer Engineering student with a passion for embedded systems, digital design, and full-stack development 🦄✨.</p>
+      <ul style="margin:0;padding-left:20px;">
+        <li style="margin:6px 0;">
+          <strong>Mathematical strengths</strong> — Exceptional analytical thinking and problem solving skills with a strong foundation in rigorous, university-level mathematics.
+        </li>
+        <li style="margin:6px 0;">
+          <strong>Embedded design</strong> — Practical experience in hardware–software integration and prototyping for embedded systems.
+        </li>
+        <li style="margin:6px 0;">
+          <strong>Teaching & mentorship</strong> — Available for tutoring in advanced and engineering mathematics.
+        </li>
+      </ul>
+    </div>
+    <div style="flex:0 0 180px;display:flex;align-items:flex-start;justify-content:center;">
+      <img src="https://github.com/ishankahirushan.png" alt="Ishanka Hirushan" title="Ishanka Hirushan" style="width:180px;height:180px;object-fit:cover;border-radius:8px;border:1px solid rgba(0,0,0,0.06);box-shadow:0 8px 20px rgba(0,0,0,0.12);"/>
+    </div>
+  </div>
 
   <h2>🤝 Let's Connect</h2>
   <p>
@@ -24,7 +31,7 @@
       <img width="48" src="https://skillicons.dev/icons?i=gmail" />
     </a>
     <a href="https://ishankahirushan.github.io">
-      <img width="48" src="https://skillicons.dev/icons?i=vercel" />
+      <img width="48" src="https://cdn.simpleicons.org/googlechrome" />
     </a>
     <a href="https://github.com/ishankahirushan">
       <img width="48" src="https://skillicons.dev/icons?i=github" />
@@ -36,7 +43,7 @@
 
   <p>
   💡 <i>Always open to collaboration, learning, and building impactful tech.</i>
-</p>
+  </p>
 </div>
 
 <div align="center">
