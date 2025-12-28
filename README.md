@@ -21,7 +21,7 @@
         </ul>
       </td>
       <td style="width:200px;padding:12px 16px;vertical-align:top;text-align:center;">
-        <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/IMG%201.png" alt="Coding" title="Coding" style="width:180px;height:180px;object-fit:cover;border-radius:8px;border:1px solid rgba(0,0,0,0.06);box-shadow:0 8px 20px rgba(0,0,0,0.12);"/>
+        <img src="https://raw.githubusercontent.com/ishankahirushan/ishankahirushan/main/Assets/IMG%201.png" alt="Coding" title="Coding" style="width:180px;height:auto;max-width:100%;display:block;object-fit:contain;border-radius:8px;border:1px solid rgba(0,0,0,0.06);box-shadow:0 8px 20px rgba(0,0,0,0.12);"/>
       </td>
     </tr>
   </table>
@@ -48,5 +48,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ishankahirushan/ishankahirushan/main/Assets/IMG%201.png" alt="Computer Engineering Banner" width="100%" />
+  <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%" />
 </div>
