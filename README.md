@@ -26,15 +26,6 @@
     </tr>
   </table>
 
-  <style>
-    @media (max-width:640px) {
-      table { display:block; }
-      table tr { display:block; }
-      table td { display:block; width:100% !important; box-sizing:border-box; text-align:left; }
-      table td:last-child { margin-top:12px; text-align:center; }
-    }
-  </style>
-
   <h2>🤝 Let's Connect</h2>
   <p>
     <a href="mailto:ishankahirushan22@gmail.com">
