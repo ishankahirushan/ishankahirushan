@@ -1,17 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,22,22,22&height=230&section=header&text=Ishanka%20Hirushan&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=System%20Developer%20%7C%20Tech%20Explorer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" alt="Header"/>
 </div>
-<div align="center">
-  <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%" />
-</div>
-
-<h1 align="center"> Hey there!  I'm <a href="https://ishankahirushan.github.io/" target="_blank">Ishanka Hirushan</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=04E8F0&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+%F0%9F%8E%93;Hardware+%26+Software+Developer+%F0%9F%94%A7%F0%9F%92%BB;CTO+%40+AxSynthe+Group+%F0%9F%9A%80;8051+Assembly+%7C+VHDL+%7C+ESP32+%7C+IoT+%E2%9C%A8;Building+Digital+%26+Physical+Solutions+%F0%9F%94%8C" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="mailto:ishankahirushan22@gmail.com">
@@ -31,7 +20,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%" />
+</div>
 
 <table align="center">
   <tr>
