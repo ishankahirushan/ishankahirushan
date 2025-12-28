@@ -12,53 +12,53 @@
     <a href="https://www.linkedin.com/in/ishankahirushan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://medium.com/@ishankahirushan"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
   </p>
-
-  <h2>🛠️ Hardware Expertise</h2>
-
-  **Languages**  
-    <img src="https://img.shields.io/badge/Assembly-Intermediate-yellow?style=for-the-badge&logo=gnubash&logoColor=white" alt="Assembly"/>
-    <img src="https://img.shields.io/badge/Arduino-Intermediate-yellow?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-    <img src="https://img.shields.io/badge/VHDL-Advanced-orange?style=for-the-badge&logo=verilog&logoColor=white" alt="VHDL"/>
-
-  **Microcontrollers (MCUs)**  
-    <img src="https://img.shields.io/badge/8051-Intermediate-yellow?style=for-the-badge" alt="8051 MCU"/>
-    <img src="https://img.shields.io/badge/8086-Intermediate-yellow?style=for-the-badge" alt="8086 MCU"/>
-    <img src="https://img.shields.io/badge/ESP32-Advanced-orange?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-
-  **Tools & IDEs**  
-    <img src="https://img.shields.io/badge/Xilinx%20ISE-Intermediate-yellow?style=for-the-badge&logo=xilinx&logoColor=white" alt="Xilinx ISE"/>
-    <img src="https://img.shields.io/badge/Vivado%20ISE-Intermediate-yellow?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado ISE"/>
-    <img src="https://img.shields.io/badge/Proteus-Expert-red?style=for-the-badge" alt="Proteus"/>
-    <img src="https://img.shields.io/badge/Arduino%20IDE-Expert-red?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
-
-  <h2>💻 Software Expertise</h2>
-
-  **Languages**  
-    <img src="https://img.shields.io/badge/Java-Expert-red?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Python-Advanced-orange?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/PHP-Intermediate-yellow?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/C-Intermediate-yellow?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-
-  **Backend Frameworks**  
-    <img src="https://img.shields.io/badge/Laravel-Beginner-green?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/Flask-Beginner-green?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Django-Beginner-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Spring%20Boot-Beginner-green?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-
-  **Frontend Frameworks**  
-    <img src="https://img.shields.io/badge/React-Beginner-green?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/Angular-Beginner-green?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-
-  **Databases**  
-    <img src="https://img.shields.io/badge/MySQL-Expert-red?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-yellow?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/SQLite-Intermediate-yellow?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-    <img src="https://img.shields.io/badge/Firebase-Intermediate-yellow?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
 </div>
 
 <div align="center">
   <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%" />
 </div>
+
+## 🛠 Hardware Expertise
+
+**Languages**  
+![Assembly](https://img.shields.io/badge/Assembly-Intermediate-yellow) 
+![Arduino](https://img.shields.io/badge/Arduino-Intermediate-yellow) 
+![VHDL](https://img.shields.io/badge/VHDL-Advanced-orange)
+
+**Microcontrollers (MCUs)**  
+![8051](https://img.shields.io/badge/8051-Intermediate-yellow)
+![8086](https://img.shields.io/badge/8086-Intermediate-yellow)
+![ESP32](https://img.shields.io/badge/ESP32-Advanced-orange)
+
+**Tools & IDEs**  
+![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-Intermediate-yellow)
+![Vivado ISE](https://img.shields.io/badge/Vivado%20ISE-Intermediate-yellow)
+![Proteus](https://img.shields.io/badge/Proteus-Expert-red)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-Expert-red) 
+
+## 💻 Software Expertise
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-Expert-red)
+![Python](https://img.shields.io/badge/Python-Advanced-orange)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow)
+![C](https://img.shields.io/badge/C-Intermediate-yellow)  
+
+**Backend Frameworks**  
+![Laravel](https://img.shields.io/badge/Laravel-Beginner-green)
+![Flask](https://img.shields.io/badge/Flask-Beginner-green)
+![Django](https://img.shields.io/badge/Django-Beginner-green)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green) 
+
+**Frontend Frameworks**  
+![React](https://img.shields.io/badge/React-Beginner-green)
+![Angular](https://img.shields.io/badge/Angular-Beginner-green)  
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-Expert-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
+![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
 
 ## 🛠 Hardware Projects
 
