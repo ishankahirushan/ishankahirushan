@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=WELCOME&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&" alt="Header"/>
+</div>
+
+<div align="center">
   <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%" />
 </div>
 
