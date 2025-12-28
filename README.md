@@ -48,5 +48,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ishankahirushan/ishankahirushan/main/Assets/IMG%201.png" alt="Computer Engineering Banner" width="100%" />
 </div>
