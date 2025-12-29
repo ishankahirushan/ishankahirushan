@@ -135,33 +135,59 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border:1px solid #e6e6e6;">
-      <!-- Replace with Row 4 content -->
-      Row 4 — single cell (colspan=2). Replace this text with your content.
+    <td align = "center" colspan="2" style="border:1px solid #e6e6e6;">
+      PROJECTS
     </td>
   </tr>
-
-  <!-- 5th row: two cells -->
   <tr>
-    <td style="border:1px solid #e6e6e6; vertical-align:top;">
-      <!-- Replace with Row 5, Cell 1 content -->
-      Row 5 — Cell 1
+    <td align = "center"  style="border:1px solid #e6e6e6; vertical-align:top;">
+      Hardware Projects
     </td>
-    <td style="border:1px solid #e6e6e6; vertical-align:top;">
-      <!-- Replace with Row 5, Cell 2 content -->
-      Row 5 — Cell 2
+    <td align = "center" style="border:1px solid #e6e6e6; vertical-align:top;">
+      Software Projects
     </td>
   </tr>
-
-  <!-- 6th row: two cells -->
   <tr>
     <td style="border:1px solid #e6e6e6; vertical-align:top;">
-      <!-- Replace with Row 6, Cell 1 content -->
-      Row 6 — Cell 1
+### 🚗 **OPMS - Outdoor Parking Management System**
+![Assembly](https://img.shields.io/badge/8051_MCU-ASSEMBLY-8B0000?style=for-the-badge)
+
+This system is an intelligent solution for efficient and secure parking management. It automates slot monitoring and access control, allowing only registered vehicles while providing real-time updates and notifications. The system ensures smooth vehicle flow, optimized space usage, and enhanced security through automated management.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
+
+### 🚗 **TCWCC - Tunneled Car Wash Conveyor Controller**
+![VHDL](https://img.shields.io/badge/SPARTON_6-VHDL-green?style=for-the-badge)
+
+This System is a fully digital, automated solution for vehicle cleaning. It orchestrates a multi-stage washing sequence from entry to exit, ensuring smooth operation with safety interlocks and emergency stop mechanisms. The system intelligently detects vehicles, controls the washing sequence, and manages all operations automatically, providing efficient, reliable, and fully automated vehicle washing without manual intervention.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
+
+### 🤖 **SSMS - Smart Snack Management System**
+![Arduino](https://img.shields.io/badge/ESP32-Arduino-00979D?style=for-the-badge)![Websockets](https://img.shields.io/badge/WebSocket-FFC107?style=for-the-badge)![Flask](https://img.shields.io/badge/Flask-00BFA5?style=for-the-badge)![MQTT](https://img.shields.io/badge/MQTT-6A0DAD?style=for-the-badge)![Django](https://img.shields.io/badge/Django-006400?style=for-the-badge)
+
+This system is an intelligent, IoT-enabled vending solution designed with a distributed three-layer architecture. It automates snack dispensing while providing personalized recommendations and real-time inventory tracking. The system securely manages user interactions, supports guest access, monitors environmental conditions, and provides operators with analytics dashboards. Designed for efficiency and reliability, it ensures smooth operation even offline, offering a seamless, interactive, and intelligent snack management experience.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-DP)
     </td>
     <td style="border:1px solid #e6e6e6; vertical-align:top;">
-      <!-- Replace with Row 6, Cell 2 content -->
-      Row 6 — Cell 2
+  ### 🛫 **ARMS - Airline Reservation Management System**
+  ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+![PHP](https://img.shields.io/badge/BACKEND-PHP-777BB4?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/DATABASE-MySQL-00758F?style=for-the-badge)
+
+This platform is a web-based platform developed as a first software project to manage flight bookings and reservations. It enables users to search flights using filters, register and authenticate accounts, select seats, and confirm bookings through an interactive interface. The system also includes administrative capabilities for managing flights and reservations, along with secure session handling and dynamic updates, delivering a responsive and user-friendly airline booking experience.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
+
+  ### 🎓 **LMS - Learning Management System**
+  ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+![Flask](https://img.shields.io/badge/BACKEND-Flask-00BFA5?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/DATABASE-MySQL-00758F?style=for-the-badge)
+
+This platform is a web-based system designed to manage courses, assignments, and student progress efficiently. It provides a centralized course catalog, resource sharing, assignment submission, and grading tools for instructors, while enabling students to track their progress and participate in discussion forums. The platform also includes notifications and file management features, along with secure user authentication and role-based access control for students, instructors, and administrators.
+
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
     </td>
   </tr>
 </table>
