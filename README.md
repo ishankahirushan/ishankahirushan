@@ -57,11 +57,11 @@
 
 <div>
   <div>
-    <h3>
+    <h2>
       💀🌟 Skills and Projects
-    </h3>
+    </h2>
   </div>
-  
+
   <div align="center">
     <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%">
   </div>
