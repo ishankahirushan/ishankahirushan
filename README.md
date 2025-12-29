@@ -91,7 +91,7 @@
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid #e6e6e6; vertical-align:top;">
+    <td align = "top" style="border:1px solid #e6e6e6; vertical-align:top;">
 
   **Languages**  
     ![Assembly](https://img.shields.io/badge/Assembly-Intermediate-yellow) 
@@ -164,4 +164,4 @@
       Row 6 — Cell 2
     </td>
   </tr>
-</table
+</table>
