@@ -7,9 +7,10 @@
   <table style="width:100%;max-width:1000px;border-collapse:collapse;">
     <tr>
       <td style="padding:12px 16px;vertical-align:top;">
-        <p style="margin:0 0 4px 0;">Ishanka Hirushan</p>
-        <p style="margin:0 0 4px 0;">CTO at AXSYNTHEGROUP</p>
-        <p style="margin:0;">BSc (Hons) Computer Engineering Undergraduate</p>  
+        <p style="margin:0 0 0 0;">Ishanka Hirushan</p>
+        <p style="margin:0 0 0 0;">CTO at AXSYNTHEGROUP</p>
+        <p style="margin:0 0 16px 0;">BSc (Hons) Computer Engineering Undergraduate</p>
+        <p style="margin:0 0 0 0">Providing solutions across both hardware and software, applying foundational knowledge and practical skills to design, analyze, and implement systems, while continuously expanding capabilities toward more advanced concepts.</p>  
       </td>
       <td style="width:200px;padding:12px 16px;vertical-align:top;text-align:center;">
         <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/IMG%201.png" style="width:100%;height:auto;object-fit:contain;border-radius:8px;border:1px solid rgba(0,0,0,0.06);box-shadow:0 8px 20px rgba(0,0,0,0.12);max-width:180px;"/>
