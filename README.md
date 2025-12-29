@@ -66,3 +66,89 @@
     <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/Top%20Logo.png" alt="Computer Engineering Banner" width="100%">
   </div>
 </div>
+
+<div></div>
+
+
+
+<table width="100%" role="table" aria-label="Two column balanced table" cellspacing="0" cellpadding="8" style="border-collapse:collapse;">
+  <colgroup>
+    <col width="50%" />
+    <col width="50%" />
+  </colgroup>
+
+  <tr>
+    <td align = "center" colspan="2" style="border:1px solid #e6e6e6;">
+      EXPERTISES
+    </td>
+  </tr>
+  <tr>
+    <td align = "center" style="border:1px solid #e6e6e6; vertical-align:top;" width="50%">
+      Software Expertises
+    </td>
+    <td align = "center" style="border:1px solid #e6e6e6; vertical-align:top;" width="50%">
+      Hardware Expertises
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #e6e6e6; vertical-align:top;">
+      **Languages**  
+        ![Java](https://img.shields.io/badge/Java-Expert-red)
+        ![Python](https://img.shields.io/badge/Python-Advanced-orange)
+        ![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow)
+        ![C](https://img.shields.io/badge/C-Intermediate-yellow)  
+
+  **Backend Frameworks**  
+  ![Laravel](https://img.shields.io/badge/Laravel-Beginner-green)
+  ![Flask](https://img.shields.io/badge/Flask-Beginner-green)
+  ![Django](https://img.shields.io/badge/Django-Beginner-green)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green) 
+
+  **Frontend Frameworks**  
+  ![React](https://img.shields.io/badge/React-Beginner-green)
+  ![Angular](https://img.shields.io/badge/Angular-Beginner-green)  
+
+  **Databases**  
+  ![MySQL](https://img.shields.io/badge/MySQL-Expert-red)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
+  ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
+  ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+    </td>
+    <td style="border:1px solid #e6e6e6; vertical-align:top;">
+      <!-- Replace with Row 3, Cell 2 content -->
+      Row 3 — Cell 2
+    </td>
+  </tr>
+
+  <!-- 4th row: single cell spanning both columns -->
+  <tr>
+    <td colspan="2" style="border:1px solid #e6e6e6;">
+      <!-- Replace with Row 4 content -->
+      Row 4 — single cell (colspan=2). Replace this text with your content.
+    </td>
+  </tr>
+
+  <!-- 5th row: two cells -->
+  <tr>
+    <td style="border:1px solid #e6e6e6; vertical-align:top;">
+      <!-- Replace with Row 5, Cell 1 content -->
+      Row 5 — Cell 1
+    </td>
+    <td style="border:1px solid #e6e6e6; vertical-align:top;">
+      <!-- Replace with Row 5, Cell 2 content -->
+      Row 5 — Cell 2
+    </td>
+  </tr>
+
+  <!-- 6th row: two cells -->
+  <tr>
+    <td style="border:1px solid #e6e6e6; vertical-align:top;">
+      <!-- Replace with Row 6, Cell 1 content -->
+      Row 6 — Cell 1
+    </td>
+    <td style="border:1px solid #e6e6e6; vertical-align:top;">
+      <!-- Replace with Row 6, Cell 2 content -->
+      Row 6 — Cell 2
+    </td>
+  </tr>
+</table>
