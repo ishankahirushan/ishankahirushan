@@ -6,7 +6,7 @@
   <h2>👨‍💻 About Me</h2>
   <table style="width:100%;max-width:1000px;border-collapse:collapse;">
     <tr>
-      <td style="padding:12px 16px;vertical-align:top;">
+      <td>
         <p style="margin:0 0 0 0;">Ishanka Hirushan</p>
         <p style="margin:0 0 0 0;">CTO at AXSYNTHEGROUP</p>
         <p style="margin:0 0 16px 0;">BSc (Hons) Computer Engineering Undergraduate</p>
