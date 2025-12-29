@@ -4,25 +4,17 @@
 
 <div>
   <h3>
-    <strong>
-      Ishanka Hirushan
-    </strong>
+    Ishanka Hirushan
     <br>
-    <small>
-      BSc (Hons) Computer Engineering (Undergraduate)
-    </small>
+    BSc (Hons) Computer Engineering (Undergraduate)
     <br>
-    <small>
-      CTO at <a href="https://axsynthegroup.me/">AXSYNTHEGROUP</a>
-    </small>
+    CTO at <a href="https://axsynthegroup.me/">AXSYNTHEGROUP</a>
   </h3>
 </div>
 
 <div>
   <h3>
-    <small>
-      Providing solutions across both hardware and software, applying foundational knowledge and practical skills to design, analyze, and implement systems, while continuously expanding capabilities toward more advanced concepts.
-    </small>
+    Providing solutions across both hardware and software, applying foundational knowledge and practical skills to design, analyze, and implement systems, while continuously expanding capabilities toward more advanced concepts.
   </h3>
 </div>
 
