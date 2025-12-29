@@ -84,43 +84,56 @@
   </tr>
   <tr>
     <td align = "center" style="border:1px solid #e6e6e6; vertical-align:top;" width="50%">
-      Software Expertises
+      Hardware Expertises
     </td>
     <td align = "center" style="border:1px solid #e6e6e6; vertical-align:top;" width="50%">
-      Hardware Expertises
+      Software Expertises
     </td>
   </tr>
   <tr>
     <td style="border:1px solid #e6e6e6; vertical-align:top;">
-      **Languages**  
-        ![Java](https://img.shields.io/badge/Java-Expert-red)
-        ![Python](https://img.shields.io/badge/Python-Advanced-orange)
-        ![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow)
-        ![C](https://img.shields.io/badge/C-Intermediate-yellow)  
+
+  **Languages**  
+    ![Assembly](https://img.shields.io/badge/Assembly-Intermediate-yellow) 
+    ![Arduino](https://img.shields.io/badge/Arduino-Intermediate-yellow) 
+    ![VHDL](https://img.shields.io/badge/VHDL-Advanced-orange)
+
+  **Microcontrollers (MCUs)**  
+    ![8051](https://img.shields.io/badge/8051-Intermediate-yellow)
+    ![8086](https://img.shields.io/badge/8086-Intermediate-yellow)
+    ![ESP32](https://img.shields.io/badge/ESP32-Advanced-orange)
+
+  **Tools & IDEs**  
+    ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-Intermediate-yellow)
+    ![Vivado ISE](https://img.shields.io/badge/Vivado%20ISE-Intermediate-yellow)
+    ![Proteus](https://img.shields.io/badge/Proteus-Expert-red)
+    ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-Expert-red) 
+    </td>
+    <td style="border:1px solid #e6e6e6; vertical-align:top">
+                                               
+  **Languages**  
+    ![Java](https://img.shields.io/badge/Java-Expert-red)
+    ![Python](https://img.shields.io/badge/Python-Advanced-orange)
+    ![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow)
+    ![C](https://img.shields.io/badge/C-Intermediate-yellow)
 
   **Backend Frameworks**  
-  ![Laravel](https://img.shields.io/badge/Laravel-Beginner-green)
-  ![Flask](https://img.shields.io/badge/Flask-Beginner-green)
-  ![Django](https://img.shields.io/badge/Django-Beginner-green)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green) 
+    ![Laravel](https://img.shields.io/badge/Laravel-Beginner-green)
+    ![Flask](https://img.shields.io/badge/Flask-Beginner-green)
+    ![Django](https://img.shields.io/badge/Django-Beginner-green)
+    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green) 
 
   **Frontend Frameworks**  
-  ![React](https://img.shields.io/badge/React-Beginner-green)
-  ![Angular](https://img.shields.io/badge/Angular-Beginner-green)  
+    ![React](https://img.shields.io/badge/React-Beginner-green)
+    ![Angular](https://img.shields.io/badge/Angular-Beginner-green)  
 
   **Databases**  
-  ![MySQL](https://img.shields.io/badge/MySQL-Expert-red)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
-  ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
-  ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
-    </td>
-    <td style="border:1px solid #e6e6e6; vertical-align:top;">
-      <!-- Replace with Row 3, Cell 2 content -->
-      Row 3 — Cell 2
+    ![MySQL](https://img.shields.io/badge/MySQL-Expert-red)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
+    ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
+    ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
     </td>
   </tr>
-
-  <!-- 4th row: single cell spanning both columns -->
   <tr>
     <td colspan="2" style="border:1px solid #e6e6e6;">
       <!-- Replace with Row 4 content -->
@@ -151,4 +164,4 @@
       Row 6 — Cell 2
     </td>
   </tr>
-</table>
+</table
