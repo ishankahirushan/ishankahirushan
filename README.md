@@ -255,23 +255,9 @@ This collection consists of **simple Python scripts** created to automate day-to
   </div>
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishankahirushan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📊 Detailed GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishankahirushan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=04e8f0&icon_color=04e8f0&text_color=fff&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishankahirushan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=04e8f0&text_color=fff&langs_count=8" alt="Top Languages" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting! &fontSize=24&fontColor=fff&animation=twinkling" width="100%">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling" alt="Footer"/>  
+  
+  *Last Updated: December 2025*  
 </div>
