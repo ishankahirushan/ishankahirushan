@@ -67,10 +67,6 @@
   </div>
 </div>
 
-<div></div>
-
-
-
 <table width="100%" role="table" aria-label="Two column balanced table" cellspacing="0" cellpadding="8" style="border-collapse:collapse;">
   <colgroup>
     <col width="50%" />
@@ -199,3 +195,83 @@ This platform is a web-based corporate website designed to showcase the company'
     </td>
   </tr>
 </table>
+
+### 🛠️ Personal / Side Projects
+#### 🐍 **Python Automation Scripts Collection**
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge)
+
+This collection consists of **simple Python scripts** created to automate day-to-day tasks, such as file type conversions, data processing, and workflow automation, helping improve productivity and reduce manual effort.
+
+<div>
+  <div>
+    <h2>
+      🏢 Professional Experience
+    </h2>
+  </div>
+
+  <div align="center">
+
+  ### **Chief Technology Officer (CTO)**
+  ### AXSYNTHE GROUP | Founding Team Member
+
+  <img src="https://img.icons8.com/fluency/96/000000/organization.png" width="80" />
+
+  **About AxSynthe Group:**
+  > A private business group in Sri Lanka combining multiple specialist companies to deliver comprehensive solutions across technology, creative design, education, events, and business support sectors.
+  </div>
+</div>
+
+<div>
+  <div>
+    <h2>
+      🎓 Education & Continuous Learning
+    </h2>
+  </div>
+
+  <div align="center">
+
+   ### 🎯 Academic Background
+   **BSc (Hons) in Computer Engineering**  
+   **(Undergraduate)**
+
+   ### 📚 Professional Development
+
+   <table>
+     <tr>
+       <td align="center" width="50%">
+         <img src="https://icet.lk/wp-content/uploads/2025/06/Website-Logo.png" width="64" />
+         <br><b>ICET Course</b>
+         <br><sub>Sri Lankan Professional Development Program</sub>
+         <br><sub>Advanced Technical Training</sub>
+       </td>
+       <td align="center" width="50%">
+         <img src="https://seekerscloud.com/assets/logo/logo.png" width="64" />
+         <br><b>Developers Stack Course</b>
+         <br><sub>Sri Lankan Full Stack Development Program</sub>
+         <br><sub>Modern Web Technologies</sub>
+       </td>
+     </tr>
+   </table>
+  </div>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishankahirushan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 Detailed GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishankahirushan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=04e8f0&icon_color=04e8f0&text_color=fff&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishankahirushan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=04e8f0&text_color=fff&langs_count=8" alt="Top Languages" />
+</div>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting! &fontSize=24&fontColor=fff&animation=twinkling" width="100%">
+</div>
