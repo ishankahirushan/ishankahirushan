@@ -245,7 +245,7 @@ This collection consists of **simple Python scripts** created to automate day-to
          <br><sub>Advanced Technical Training</sub>
        </td>
        <td align="center" width="50%">
-         <img src="https://seekerscloud.com/assets/logo/logo.png" width="64" />
+         <img src="https://seekerscloud.com/assets/logo/logo.png" width="65" />
          <br><b>Developers Stack Course</b>
          <br><sub>Sri Lankan Full Stack Development Program</sub>
          <br><sub>Modern Web Technologies</sub>
