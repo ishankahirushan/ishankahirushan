@@ -165,7 +165,7 @@ This System is a fully digital, automated solution for vehicle cleaning. It orch
 
 This system is an intelligent, IoT-enabled vending solution designed with a distributed three-layer architecture. It automates snack dispensing while providing personalized recommendations and real-time inventory tracking. The system securely manages user interactions, supports guest access, monitors environmental conditions, and provides operators with analytics dashboards. Designed for efficiency and reliability, it ensures smooth operation even offline, offering a seamless, interactive, and intelligent snack management experience.
 
-📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-DP)
+📂 [**View Project Repository →**](https://github.com/ishankahirushan/SSMS)
     </td>
     <td style="border:1px solid #e6e6e6; vertical-align:top;">
   ### 🛫 **ARMS - Airline Reservation Management System**
