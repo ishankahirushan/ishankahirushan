@@ -1,15 +1,15 @@
 <div align="center">
 
-    <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/banner.png" width="100%">
+  <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/banner.png" width="100%">
 
-    <img src="https://komarev.com/ghpvc/?username=ishankahirushan&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
-    &nbsp;&nbsp;
-    <a href="https://github.com/ishankahirushan?tab=followers"><img src="https://img.shields.io/github/followers/ishankahirushan?style=for-the-badge&color=7F77DD&labelColor=EEEDFE&label=My%20Followers" alt="followers"/></a>
-    &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Completed%20Projects-5+-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work"/>
-    &nbsp;&nbsp;
-    <a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Building%20with-React%20Ecosystem-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
-    &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ishankahirushan&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ishankahirushan?tab=followers"><img src="https://img.shields.io/github/followers/ishankahirushan?style=for-the-badge&color=7F77DD&labelColor=EEEDFE&label=My%20Followers" alt="followers"/></a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Completed%20Projects-5+-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work">
+  &nbsp;&nbsp;
+  <a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Building%20with-React%20Ecosystem-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
+  &nbsp;&nbsp;
 
 </div>
 
@@ -115,6 +115,7 @@
 ![Vivado ISE](https://img.shields.io/badge/Vivado%20ISE-Intermediate-yellow)
 ![Proteus](https://img.shields.io/badge/Proteus-Expert-red)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-Expert-red)
+
 </td>
 <td style="border:1px solid #e6e6e6; vertical-align:top">
 
@@ -139,6 +140,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
 ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
 ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+
 </td>
 
   </tr>
@@ -180,6 +182,7 @@ This System is a fully digital, automated solution for vehicle cleaning. It orch
 This system is an intelligent, IoT-enabled vending solution designed with a distributed three-layer architecture. It automates snack dispensing while providing personalized recommendations and real-time inventory tracking. The system securely manages user interactions, supports guest access, monitors environmental conditions, and provides operators with analytics dashboards. Designed for efficiency and reliability, it ensures smooth operation even offline, offering a seamless, interactive, and intelligent snack management experience.
 
 📂 [**View Project Repository →**](https://github.com/ishankahirushan/SSMS)
+
 </td>
 <td style="border:1px solid #e6e6e6; vertical-align:top;">
 
@@ -210,6 +213,7 @@ This platform is a web-based system designed to manage courses, assignments, and
 This platform is a web-based corporate website designed to showcase the company's portfolio, services, and projects effectively. It provides an interactive and visually engaging interface, organized sections for service offerings, project highlights, and team information, along with smooth navigation and responsive design for seamless access across devices.
 
 🌍 [**Visit Live Website →**](https://www.axsynthegroup.me)
+
 </td>
 
   </tr>
