@@ -9,21 +9,21 @@
   <a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Building%20with-NodeJS%20Ecosystem-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
   &nbsp;&nbsp;
 
-  <br/><br/>
+<br/><br/>
 
   <table width="100%" style="table-layout: fixed;">
     <tr>
-      <td align="center" style="border:1px solid #e6e6e6; padding: 12px;">
+      <td align="center" width="33.33%" style="border:1px solid #e6e6e6; padding: 12px;">
         <img src="https://img.icons8.com/fluency/48/web.png" width="40"/><br/>
         <strong>Web Development</strong><br/>
         <sub style="white-space: nowrap; font-size: 12px;">Angular · NestJS · PostgreSQL</sub>
       </td>
-      <td align="center" style="border:1px solid #e6e6e6; padding: 12px;">
+      <td align="center" width="33.33%" style="border:1px solid #e6e6e6; padding: 12px;">
         <img src="https://img.icons8.com/fluency/48/circuit.png" width="40"/><br/>
         <strong>Embedded & IoT</strong><br/>
         <sub style="white-space: nowrap; font-size: 12px;">ESP32 · Arduino · MQTT</sub>
       </td>
-      <td align="center" style="border:1px solid #e6e6e6; padding: 12px;">
+      <td align="center" width="33.33%" style="border:1px solid #e6e6e6; padding: 12px;">
         <img src="https://img.icons8.com/fluency/48/chip.png" width="40"/><br/>
         <strong>Digital Design</strong><br/>
         <sub style="white-space: nowrap; font-size: 12px;">VHDL · FPGA · VIVADO</sub>
@@ -33,9 +33,10 @@
 
   <br/>
 
-  > 🟢 **Currently learning:** OS concepts — implementation with C & Java
+> 🟢 **Currently learning:** OS concepts — implementation with C & Java
 
-  ### 🤝 Contact Me
+### 🤝 Contact Me
+
 </div>
 
 <div>
