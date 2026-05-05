@@ -6,7 +6,7 @@
   &nbsp;&nbsp;
   <a href="https://github.com/ishankahirushan?tab=followers"><img src="https://img.shields.io/github/followers/ishankahirushan?style=for-the-badge&color=7F77DD&labelColor=EEEDFE&label=My%20Followers" alt="followers"/></a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Completed%20Projects-5+-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work">
+  <img src="https://img.shields.io/badge/Completed%20Projects-10+-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work">
   &nbsp;&nbsp;
   <a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Building%20with-React%20Ecosystem-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
   &nbsp;&nbsp;
