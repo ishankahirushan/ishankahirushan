@@ -11,22 +11,22 @@
 
   <br/><br/>
 
-  <table width="105%">
+  <table width="100%" style="table-layout: fixed;">
     <tr>
-      <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 15px;">
+      <td align="center" style="border:1px solid #e6e6e6; padding: 12px;">
         <img src="https://img.icons8.com/fluency/48/web.png" width="40"/><br/>
         <strong>Web Development</strong><br/>
-        <sub style="white-space: nowrap;">Angular · NestJS · PostgreSQL</sub>
+        <sub style="white-space: nowrap; font-size: 12px;">Angular · NestJS · PostgreSQL</sub>
       </td>
-      <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 15px;">
+      <td align="center" style="border:1px solid #e6e6e6; padding: 12px;">
         <img src="https://img.icons8.com/fluency/48/circuit.png" width="40"/><br/>
         <strong>Embedded & IoT</strong><br/>
-        <sub style="white-space: nowrap;">ESP32 · Arduino · MQTT</sub>
+        <sub style="white-space: nowrap; font-size: 12px;">ESP32 · Arduino · MQTT</sub>
       </td>
-      <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 15px;">
+      <td align="center" style="border:1px solid #e6e6e6; padding: 12px;">
         <img src="https://img.icons8.com/fluency/48/chip.png" width="40"/><br/>
         <strong>Digital Design</strong><br/>
-        <sub style="white-space: nowrap;">VHDL · FPGA · VIVADO</sub>
+        <sub style="white-space: nowrap; font-size: 12px;">VHDL · FPGA · VIVADO</sub>
       </td>
     </tr>
   </table>
