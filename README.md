@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/banner.png" width="100%">
+
+<img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/banner.png" width="100%">
+
+<img src="https://komarev.com/ghpvc/?username=ishankahirushan&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
+&nbsp;&nbsp;
+<a href="https://github.com/ishankahirushan?tab=followers"><img src="https://img.shields.io/github/followers/ishankahirushan?style=for-the-badge&color=7F77DD&labelColor=EEEDFE&label=My%20Followers" alt="followers"/></a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Completed%20Projects-5+-1D9E75?style=for-the-badge&labelColor=E1F5EE" alt="open to work"/>
+&nbsp;&nbsp;
+<a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Building%20with-React%20Ecosystem-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
+&nbsp;&nbsp;
+
 </div>
 
 <div>
@@ -89,46 +100,47 @@
   <tr>
     <td style="border:1px solid #e6e6e6; vertical-align:top;">
 
-  **Languages**  
-    ![Assembly](https://img.shields.io/badge/Assembly-Intermediate-yellow) 
-    ![Arduino](https://img.shields.io/badge/Arduino-Intermediate-yellow) 
-    ![VHDL](https://img.shields.io/badge/VHDL-Advanced-orange)
+**Languages**  
+ ![Assembly](https://img.shields.io/badge/Assembly-Intermediate-yellow)
+![Arduino](https://img.shields.io/badge/Arduino-Intermediate-yellow)
+![VHDL](https://img.shields.io/badge/VHDL-Advanced-orange)
 
-  **Microcontrollers (MCUs)**  
-    ![8051](https://img.shields.io/badge/8051-Intermediate-yellow)
-    ![8086](https://img.shields.io/badge/8086-Intermediate-yellow)
-    ![ESP32](https://img.shields.io/badge/ESP32-Advanced-orange)
+**Microcontrollers (MCUs)**  
+ ![8051](https://img.shields.io/badge/8051-Intermediate-yellow)
+![8086](https://img.shields.io/badge/8086-Intermediate-yellow)
+![ESP32](https://img.shields.io/badge/ESP32-Advanced-orange)
 
-  **Tools & IDEs**  
-    ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-Intermediate-yellow)
-    ![Vivado ISE](https://img.shields.io/badge/Vivado%20ISE-Intermediate-yellow)
-    ![Proteus](https://img.shields.io/badge/Proteus-Expert-red)
-    ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-Expert-red) 
-    </td>
-    <td style="border:1px solid #e6e6e6; vertical-align:top">
-                                               
-  **Languages**  
-    ![Java](https://img.shields.io/badge/Java-Expert-red)
-    ![Python](https://img.shields.io/badge/Python-Advanced-orange)
-    ![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow)
-    ![C](https://img.shields.io/badge/C-Intermediate-yellow)
+**Tools & IDEs**  
+ ![Xilinx ISE](https://img.shields.io/badge/Xilinx%20ISE-Intermediate-yellow)
+![Vivado ISE](https://img.shields.io/badge/Vivado%20ISE-Intermediate-yellow)
+![Proteus](https://img.shields.io/badge/Proteus-Expert-red)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-Expert-red)
+</td>
+<td style="border:1px solid #e6e6e6; vertical-align:top">
 
-  **Backend Frameworks**  
-    ![Laravel](https://img.shields.io/badge/Laravel-Beginner-green)
-    ![Flask](https://img.shields.io/badge/Flask-Beginner-green)
-    ![Django](https://img.shields.io/badge/Django-Beginner-green)
-    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green) 
+**Languages**  
+ ![Java](https://img.shields.io/badge/Java-Expert-red)
+![Python](https://img.shields.io/badge/Python-Advanced-orange)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-yellow)
+![C](https://img.shields.io/badge/C-Intermediate-yellow)
 
-  **Frontend Frameworks**  
-    ![React](https://img.shields.io/badge/React-Beginner-green)
-    ![Angular](https://img.shields.io/badge/Angular-Beginner-green)  
+**Backend Frameworks**  
+ ![Laravel](https://img.shields.io/badge/Laravel-Beginner-green)
+![Flask](https://img.shields.io/badge/Flask-Beginner-green)
+![Django](https://img.shields.io/badge/Django-Beginner-green)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Beginner-green)
 
-  **Databases**  
-    ![MySQL](https://img.shields.io/badge/MySQL-Expert-red)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
-    ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
-    ![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
-    </td>
+**Frontend Frameworks**  
+ ![React](https://img.shields.io/badge/React-Beginner-green)
+![Angular](https://img.shields.io/badge/Angular-Beginner-green)
+
+**Databases**  
+ ![MySQL](https://img.shields.io/badge/MySQL-Expert-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-yellow)
+![SQLite](https://img.shields.io/badge/SQLite-Intermediate-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+</td>
+
   </tr>
   <tr>
     <td align = "center" colspan="2" style="border:1px solid #e6e6e6;">
@@ -154,6 +166,7 @@ This system is an intelligent solution for efficient and secure parking manageme
 📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
 
 ### 🚗 **TCWCC - Tunneled Car Wash Conveyor Controller**
+
 ![VHDL](https://img.shields.io/badge/SPARTON_6-VHDL-green?style=for-the-badge)
 
 This System is a fully digital, automated solution for vehicle cleaning. It orchestrates a multi-stage washing sequence from entry to exit, ensuring smooth operation with safety interlocks and emergency stop mechanisms. The system intelligently detects vehicles, controls the washing sequence, and manages all operations automatically, providing efficient, reliable, and fully automated vehicle washing without manual intervention.
@@ -161,15 +174,18 @@ This System is a fully digital, automated solution for vehicle cleaning. It orch
 📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
 
 ### 🤖 **SSMS - Smart Snack Management System**
+
 ![Arduino](https://img.shields.io/badge/ESP32-Arduino-00979D?style=for-the-badge)![Websockets](https://img.shields.io/badge/WebSocket-FFC107?style=for-the-badge)![Flask](https://img.shields.io/badge/Flask-00BFA5?style=for-the-badge)![MQTT](https://img.shields.io/badge/MQTT-6A0DAD?style=for-the-badge)![Django](https://img.shields.io/badge/Django-006400?style=for-the-badge)
 
 This system is an intelligent, IoT-enabled vending solution designed with a distributed three-layer architecture. It automates snack dispensing while providing personalized recommendations and real-time inventory tracking. The system securely manages user interactions, supports guest access, monitors environmental conditions, and provides operators with analytics dashboards. Designed for efficiency and reliability, it ensures smooth operation even offline, offering a seamless, interactive, and intelligent snack management experience.
 
 📂 [**View Project Repository →**](https://github.com/ishankahirushan/SSMS)
-    </td>
-    <td style="border:1px solid #e6e6e6; vertical-align:top;">
-  ### 🛫 **ARMS - Airline Reservation Management System**
-  ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+</td>
+<td style="border:1px solid #e6e6e6; vertical-align:top;">
+
+### 🛫 **ARMS - Airline Reservation Management System**
+
+![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/BACKEND-PHP-777BB4?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/DATABASE-MySQL-00758F?style=for-the-badge)
 
@@ -177,8 +193,9 @@ This platform is a web-based platform developed as a first software project to m
 
 📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
 
-  ### 🎓 **LMS - Learning Management System**
-  ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
+### 🎓 **LMS - Learning Management System**
+
+![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/BACKEND-Flask-00BFA5?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/DATABASE-MySQL-00758F?style=for-the-badge)
 
@@ -187,17 +204,21 @@ This platform is a web-based system designed to manage courses, assignments, and
 📂 [**View Project Repository →**](https://github.com/ishankahirushan/EEX5346-D)
 
 ### 🌐 **AxSynthe Group – Corporate Website**
+
 ![HTML](https://img.shields.io/badge/FRONTEND-HTML-E34F26?style=for-the-badge)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
 
 This platform is a web-based corporate website designed to showcase the company's portfolio, services, and projects effectively. It provides an interactive and visually engaging interface, organized sections for service offerings, project highlights, and team information, along with smooth navigation and responsive design for seamless access across devices.
 
 🌍 [**Visit Live Website →**](https://www.axsynthegroup.me)
-    </td>
+</td>
+
   </tr>
 </table>
 
 ### 🛠️ Personal / Side Projects
+
 #### 🐍 **Python Automation Scripts Collection**
+
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge)
 
 This collection consists of **simple Python scripts** created to automate day-to-day tasks, such as file type conversions, data processing, and workflow automation, helping improve productivity and reduce manual effort.
@@ -211,13 +232,16 @@ This collection consists of **simple Python scripts** created to automate day-to
 
   <div align="center">
 
-  ### **Chief Technology Officer (CTO)**
-  ### AXSYNTHE GROUP | Founding Team Member
+### **Chief Technology Officer (CTO)**
+
+### AXSYNTHE GROUP | Founding Team Member
 
   <img src="https://img.icons8.com/fluency/96/000000/organization.png" width="80" />
 
-  **About AxSynthe Group:**
-  > A private business group in Sri Lanka combining multiple specialist companies to deliver comprehensive solutions across technology, creative design, education, events, and business support sectors.
+**About AxSynthe Group:**
+
+> A private business group in Sri Lanka combining multiple specialist companies to deliver comprehensive solutions across technology, creative design, education, events, and business support sectors.
+
   </div>
 </div>
 
@@ -230,11 +254,12 @@ This collection consists of **simple Python scripts** created to automate day-to
 
   <div align="center">
 
-   ### 🎯 Academic Background
-   **BSc (Hons) in Computer Engineering**  
-   **(Undergraduate)**
+### 🎯 Academic Background
 
-   ### 📚 Professional Development
+**BSc (Hons) in Computer Engineering**  
+ **(Undergraduate)**
+
+### 📚 Professional Development
 
    <table>
      <tr>
