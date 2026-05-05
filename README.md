@@ -9,7 +9,7 @@
   <a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Building%20with-NodeJS%20Ecosystem-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
   &nbsp;&nbsp;
 
-  <br/><br/>
+  <br/>
 
   <table width="100%" style="table-layout: fixed;">
     <tr>
