@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="https://github.com/ishankahirushan/ishankahirushan/blob/main/Assets/banner.png" width="100%">
 
   <img src="https://komarev.com/ghpvc/?username=ishankahirushan&style=for-the-badge&color=7F77DD&label=PROFILE+VIEWS" alt="profile views"/>
@@ -11,34 +10,35 @@
   <a href="https://axsynthegroup.me"><img src="https://img.shields.io/badge/Building%20with-NodeJS%20Ecosystem-7F77DD?style=for-the-badge&labelColor=EEEDFE" alt="Axsynthe Group"/></a>
   &nbsp;&nbsp;
 
-</div>
+<br/><br/>
 
-<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 20px;">
+        <img src="https://img.icons8.com/fluency/48/circuit.png" width="40"/><br/>
+        <strong>Embedded Systems</strong><br/>
+        <sub>MCUs · FPGA · VHDL · Assembly</sub>
+      </td>
+      <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 20px;">
+        <img src="https://img.icons8.com/fluency/48/web.png" width="40"/><br/>
+        <strong>Web Development</strong><br/>
+        <sub>Java · PHP · Python · MySQL</sub>
+      </td>
+      <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 20px;">
+        <img src="https://img.icons8.com/fluency/48/iot-sensor.png" width="40"/><br/>
+        <strong>IoT Solutions</strong><br/>
+        <sub>ESP32 · MQTT · WebSockets</sub>
+      </td>
+    </tr>
+  </table>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 20px;">
-      <img src="https://img.icons8.com/fluency/48/circuit.png" width="40"/><br/>
-      <strong>Embedded Systems</strong><br/>
-      <sub>MCUs · FPGA · VHDL · Assembly</sub>
-    </td>
-    <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 20px;">
-      <img src="https://img.icons8.com/fluency/48/web.png" width="40"/><br/>
-      <strong>Web Development</strong><br/>
-      <sub>Java · PHP · Python · MySQL</sub>
-    </td>
-    <td align="center" width="33%" style="border:1px solid #e6e6e6; padding: 20px;">
-      <img src="https://img.icons8.com/fluency/48/iot-sensor.png" width="40"/><br/>
-      <strong>IoT Solutions</strong><br/>
-      <sub>ESP32 · MQTT · WebSockets</sub>
-    </td>
-  </tr>
-</table>
+  <br/>
 
 > 🟢 **Currently learning:** OS concepts — implementation with C & Java
 
 ### 🤝 Contact Me
-<!-- your existing contact icons here -->
+
+  <!-- your existing contact icons here -->
 
 </div>
 
